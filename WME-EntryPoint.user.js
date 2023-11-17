@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         WME Entry Point
+// @name         WME EntryPoint
 // @version      0.0.1
 // @description  Library for Waze Map Editor Greasy Fork scripts
 // @license      MIT License

@@ -36,5 +36,7 @@ point.point = W.userscripts.toGeoJSONGeometry(OLPoint)
 ```
 
 ## Links
-Author homepage: http://anton.shevchuk.name/  
+
+Author homepage: https://anton.shevchuk.name/  
+Author pet projects: https://hohli.com/  
 Script homepage: https://github.com/AntonShevchuk/wme-entrypoint
